@@ -1,0 +1,8 @@
+{
+    "name": "@skeleton/infrastructure",
+    "version": "1.0.0",
+    "main": "src/index.ts",
+    "dependencies": {
+        "winston": "^3.11.0"
+    }
+}
